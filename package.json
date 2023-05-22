@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "14.11.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "discord-bot-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anahelenasilva/discord-bot-poc.git",
+  "author": "Ana Helena <anahelenarp@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
